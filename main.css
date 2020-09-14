@@ -1,0 +1,38 @@
+body {
+ background-image: url("https://www.pethealthnetwork.com/sites/default/files/content/images/cardigan-welsh-corgi100642967.png");
+ background-color: #cccccc;
+ height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+ol{
+  text-align: center;
+  background-color: orange;
+  color: blue;
+}
+
+ul{
+  text-align: right;
+  background-color: #201206;
+  color: pink;
+}
+
+h2{
+  text-align: center;
+  background-color: gray;
+  color: yellow;
+
+}
+h3{
+  font-size: 50px;
+  color: #429576;
+}
+#Link1{
+  font-size: 100px;
+}
